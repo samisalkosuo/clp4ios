@@ -4,7 +4,7 @@
 Have an idea for new command? Add it to WISHLIST!
 
 - Create a fork.
-- Edit README.md and add your suggestion to wishlist.
+- Edit WISHLIST.md and add your suggestion.
 - Open a pull request.
 
 
