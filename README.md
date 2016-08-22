@@ -3,7 +3,7 @@ Command Line Program for iOS is a command line program for iOS. It's not a shell
  
 [Command Line Program is available at App Store](https://itunes.apple.com/app/command-line-program/id1144342705?ls=1&mt=8).
 
-A little background: http://sami.salkosuo.net/command-line-program-for-ios
+A blog post about this: http://sami.salkosuo.net/command-line-program-for-ios.
 
 # Contributing
 
