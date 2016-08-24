@@ -77,8 +77,8 @@ Note that some of the features require purchase of Premium features.
 Here in GitHub: https://github.com/samisalkosuo
 
 iOS games:
-- [Gravity One](https://itunes.apple.com/us/app/gravity-one/id820432275?ls=1&mt=8)
-- [Tycoon One](https://itunes.apple.com/us/app/tycoon-one/id982539073?ls=1&mt=8)
+- [Gravity One](https://itunes.apple.com/app/gravity-one/id820432275?ls=1&mt=8)
+- [Tycoon One](https://itunes.apple.com/app/tycoon-one/id982539073?ls=1&mt=8)
 
 And if you are into scifi, see stories from the Strangers' Universe:
 - [The Kaitian War](https://www.smashwords.com/books/view/409235?ref=samsal)
