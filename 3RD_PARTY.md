@@ -23,3 +23,4 @@
 - SwiftRandom, https://github.com/thellimist/SwiftRandom
 - swift-json, https://github.com/dankogai/swift-json
 - SwiftyStoreKit, https://github.com/bizz84/SwiftyStoreKit
+- Siren, https://github.com/ArtSabintsev/Siren

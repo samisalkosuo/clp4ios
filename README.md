@@ -53,12 +53,14 @@ Following commands have been implemented:
 - **proverb**, Collection of proverbs around the globe.
   - cowsay, Random proverb by the cow.
   - random, Random proverb.
+  - say [locale], Speak proverb. Default locale en-GB.
 - **pwd**, Generate random passwords.
   - length &lt;length>, Password length.
   - symbols &lt;length>, Password with symbols.
 - **quote**, Collection of various quotes.
   - cowsay, Random quote by the cow.
   - random, Random quote.
+  - say [locale], Speak quote. Default locale en-GB.
 - **roman**, Roman numeral converter and calculator.
   - ToInt &lt;Roman number>, Convert Roman number to integer.
   - ToRoman &lt;Integer>, Convert integer to Roman number.
@@ -66,6 +68,8 @@ Following commands have been implemented:
   - div &lt;2 Roman numbers>, Divide two Roman numbers
   - mul &lt;2+ Roman numbers>, Multiply Roman numbers
   - sub &lt;2 Roman numbers>, Subtract two Roman numbers
+- **settings**, View/set/reset settings.
+  - locales, List available locales.
 - **sun**, Sunrise/sunset time in current location.
 - **uname**, Generate random usernames.
   - format, Format: C=cons., V=vow.
