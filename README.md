@@ -35,6 +35,7 @@ Following commands have been implemented:
   - control, Control characters.
   - ext, Extended ASCII characters.
   - print, Printable characters.
+- **cls**, Clear console screen.
 - **cowsay**, Cow says.
   - text &lt;text>, Text for cow to say.
 - **curl**, Get URL content (text/plain & application/json).
@@ -57,10 +58,13 @@ Following commands have been implemented:
 - **pwd**, Generate random passwords.
   - length &lt;length>, Password length.
   - symbols &lt;length>, Password with symbols.
+- **quakes**, Show latest earthquakes.
+  - dist, Order by distance from here.
+  - mag, Order by magnitude.
 - **quote**, Collection of various quotes.
   - cowsay, Random quote by the cow.
   - random, Random quote.
-  - say [locale], Speak quote. Default locale en-GB.
+  - say [locale], Speak quote. Default locale is en-GB.
 - **roman**, Roman numeral converter and calculator.
   - ToInt &lt;Roman number>, Convert Roman number to integer.
   - ToRoman &lt;Integer>, Convert integer to Roman number.
@@ -70,10 +74,10 @@ Following commands have been implemented:
   - sub &lt;2 Roman numbers>, Subtract two Roman numbers
 - **settings**, View/set/reset settings.
   - locales, List available locales.
+  - maxQuakes &lt;nr of quakes to display>, Max quakes results in quakes-cmd.
 - **sun**, Sunrise/sunset time in current location.
 - **uname**, Generate random usernames.
-  - format, Format: C=cons., V=vow.
-
+  - format &lt;format>, Format: C=cons., V=vow., N=nr, +=space.
 Note that some of the features require purchase of Premium features.
 
 # Other stuff

@@ -13,7 +13,6 @@
 - Pantry, https://github.com/nickoneill/Pantry
 - source-code-pro, https://github.com/adobe-fonts/source-code-pro
 - Solar, https://github.com/ceeK/Solar
-- Roman, https://github.com/nvzqz/Roman
 - SwiftyTextTable, https://github.com/scottrhoyt/SwiftyTextTable
 - SQLite.swift, https://github.com/stephencelis/SQLite.swift
 - Cowsay, http://web.archive.org/web/20071026043648/http://www.nog.net/~tony/warez/cowsay.shtml
