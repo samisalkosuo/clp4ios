@@ -54,6 +54,8 @@ Following commands have been implemented:
 - **proverb**, Collection of proverbs around the globe.
   - cowsay, Random proverb by the cow.
   - random, Random proverb.
+  - rev, Random proverb, but reversed.
+  - revsay [locale], Speak reversed proverb. Default locale is en-GB.
   - say [locale], Speak proverb. Default locale en-GB.
 - **pwd**, Generate random passwords.
   - length &lt;length>, Password length.
@@ -64,6 +66,8 @@ Following commands have been implemented:
 - **quote**, Collection of various quotes.
   - cowsay, Random quote by the cow.
   - random, Random quote.
+  - rev, Random quote, but reversed.
+  - revsay [locale], Speak reversed quote. Default locale is en-GB.
   - say [locale], Speak quote. Default locale is en-GB.
 - **roman**, Roman numeral converter and calculator.
   - ToInt &lt;Roman number>, Convert Roman number to integer.
@@ -78,6 +82,7 @@ Following commands have been implemented:
 - **sun**, Sunrise/sunset time in current location.
 - **uname**, Generate random usernames.
   - format &lt;format>, Format: C=cons., V=vow., N=nr, +=space.
+
 Note that some of the features require purchase of Premium features.
 
 # Other stuff

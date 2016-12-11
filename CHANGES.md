@@ -1,3 +1,7 @@
+#### v1.3 (08.12.2016)
+
+- Added rev and revsay options to proverb and quote commands. Rev reverses text and revsay speaks reversed text (it can be quite funny).
+
 #### v1.2 (23.10.2016)
 
 - Changed APOD start date from 1.6.1995 to 16.6.1995.
