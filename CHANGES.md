@@ -1,3 +1,7 @@
+#### Version 1.4 (06.01.2017
+
+- Added nearby-parameter to location-command. Search nearby points-of-interest.
+
 #### v1.3 (08.12.2016)
 
 - Added rev and revsay options to proverb and quote commands. Rev reverses text and revsay speaks reversed text (it can be quite funny).
