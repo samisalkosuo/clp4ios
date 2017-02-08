@@ -46,7 +46,7 @@ Following commands have been implemented:
 - **info**, Information about this program.
   - 3rdparty, Show 3rd party lib info.
 - **location**, Current location.
-  - nearby &lt;query>, Find nearby &lt;query> within about 1km.
+  - nearby &lt;query>, Find nearby &lt;query>.
   - reverse, Current location address.
 - **menu**, Add/delete custom command to/from menu.
   - add &lt;menu name> &lt;command>, Add new item to menu.

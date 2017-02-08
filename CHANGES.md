@@ -1,4 +1,8 @@
-#### Version 1.4 (06.01.2017
+#### Version 1.5 (06.02.2017)
+
+- Results of "location nearby" command are now sorted by distance from nearest to farthest.
+
+#### Version 1.4 (06.01.2017)
 
 - Added nearby-parameter to location-command. Search nearby points-of-interest.
 
