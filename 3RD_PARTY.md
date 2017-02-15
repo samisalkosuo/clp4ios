@@ -23,3 +23,5 @@
 - swift-json, https://github.com/dankogai/swift-json
 - SwiftyStoreKit, https://github.com/bizz84/SwiftyStoreKit
 - Siren, https://github.com/ArtSabintsev/Siren
+- Deviice, https://github.com/andrealufino/Deviice
+- Luminous, https://github.com/andrealufino/Luminous

@@ -81,6 +81,12 @@ Following commands have been implemented:
   - locales, List available locales.
   - maxQuakes &lt;nr of quakes to display>, Max quakes results in quakes-cmd.
 - **sun**, Sunrise/sunset time in current location.
+- **system**, Show various system info.
+  - battery, Show battery info.
+  - disk, Show disk info.
+  - hardware, Show hardware info.
+  - locale, Show locale info.
+  - screen, Show screen info.
 - **uname**, Generate random usernames.
   - format &lt;format>, Format: C=cons., V=vow., N=nr, +=space.
 

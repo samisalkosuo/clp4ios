@@ -1,3 +1,11 @@
+#### Version 1.6 (11.02.2017)
+
+- Arrow up is now showing more than just latest command in command history.
+- Added M (Memory)and R (Restore) buttons. Use M to add text from textfield to memory and R to restore text to textfield.
+- Updated 3rd party libraries.
+- Bug fix. Nearby command now has URL to placemark (if available).
+- Added system-command to show information about the device including hardware, locale and screen.
+
 #### Version 1.5 (06.02.2017)
 
 - Results of "location nearby" command are now sorted by distance from nearest to farthest.
