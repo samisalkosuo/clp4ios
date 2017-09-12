@@ -1,3 +1,31 @@
+#### Version 17.7
+
+- Added RSS-command. Use settings page to set feeds to read and use rss-command to read the feeds
+
+#### Version 17.6
+
+- Added startup-commands. Use Settings-page to set one or more commands to execute when app starts.
+
+#### Version 17.5
+
+- Added Settings-page and several settings for commands. Access: Menu->Settings.
+- Premium-purchase now in Settings-page.
+- Added Help-command to Menu.
+- Internal updates.
+
+#### Version 17.4
+
+- Readded quakes-command. Uses now USGS earthquake feed to show latest quakes.
+
+#### Version 17.3
+
+- Added link to new ttmsg-app to info-command. ttmsg is messaging app based on MQTT.
+- Changed versioning to YEAR.RELEASE
+- Removed quakes-command since data source, kuakes.com, doesn't exist. Will be
+  replaced in the future by data from USGS.
+- Added civil, nautical and astronomical sunrise/sunset times to sun-command (when applicable).
+- Internal updates.
+
 #### Version 1.6 (11.02.2017)
 
 - Arrow up is now showing more than just latest command in command history.

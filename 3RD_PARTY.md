@@ -25,3 +25,6 @@
 - Siren, https://github.com/ArtSabintsev/Siren
 - Deviice, https://github.com/andrealufino/Deviice
 - Luminous, https://github.com/andrealufino/Luminous
+- Eureka, https://github.com/xmartlabs/Eureka
+- Whisper, https://github.com/hyperoslo/Whisper
+- FeedKit, https://github.com/nmdias/FeedKit

@@ -20,12 +20,8 @@ Thank You to them all!
 
 Following commands have been implemented:
 
-- **Premium**, Premium features.
-  - info, Info about Premium features.
-  - purchase, Purchase Premium features immediately.
-  - restore, Restore Premium features.
+- **Premium**, Info about Premium features.
 - **apod**, Astronomy Picture of the Day by NASA.
-  - apikey [&lt;your API key>], View or set NASA API key.
   - date &lt;yyyy-mm-dd>, Astronomy Picture of the given Day.
   - random, Random Astronomy Picture of the Day.
   - today, Astronomy Picture of the Day.
@@ -56,8 +52,8 @@ Following commands have been implemented:
   - cowsay, Random proverb by the cow.
   - random, Random proverb.
   - rev, Random proverb, but reversed.
-  - revsay [locale], Speak reversed proverb. Default locale is en-GB.
-  - say [locale], Speak proverb. Default locale en-GB.
+  - revsay [locale], Speak reversed proverb.
+  - say [locale], Speak proverb.
 - **pwd**, Generate random passwords.
   - length &lt;length>, Password length.
   - symbols &lt;length>, Password with symbols.
@@ -68,8 +64,8 @@ Following commands have been implemented:
   - cowsay, Random quote by the cow.
   - random, Random quote.
   - rev, Random quote, but reversed.
-  - revsay [locale], Speak reversed quote. Default locale is en-GB.
-  - say [locale], Speak quote. Default locale is en-GB.
+  - revsay [locale], Speak reversed quote.
+  - say [locale], Speak quote.
 - **roman**, Roman numeral converter and calculator.
   - ToInt &lt;Roman number>, Convert Roman number to integer.
   - ToRoman &lt;Integer>, Convert integer to Roman number.
@@ -77,9 +73,9 @@ Following commands have been implemented:
   - div &lt;2 Roman numbers>, Divide two Roman numbers
   - mul &lt;2+ Roman numbers>, Multiply Roman numbers
   - sub &lt;2 Roman numbers>, Subtract two Roman numbers
-- **settings**, View/set/reset settings.
-  - locales, List available locales.
-  - maxQuakes &lt;nr of quakes to display>, Max quakes results in quakes-cmd.
+- **rss**, Read RSS feeds.
+  - all &lt;no param>, Read all Settings-page RSS feeds.
+  - feed &lt;url>, RSS feed URL.
 - **sun**, Sunrise/sunset time in current location.
 - **system**, Show various system info.
   - battery, Show battery info.
@@ -96,7 +92,8 @@ Note that some of the features require purchase of Premium features.
 
 Here in GitHub: https://github.com/samisalkosuo
 
-iOS games:
+iOS:
+- [ttmsg](https://itunes.apple.com/us/app/ttmsg/id1225668824?ls=1&mt=8)
 - [Gravity One](https://itunes.apple.com/app/gravity-one/id820432275?ls=1&mt=8)
 - [Tycoon One](https://itunes.apple.com/app/tycoon-one/id982539073?ls=1&mt=8)
 
