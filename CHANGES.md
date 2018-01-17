@@ -1,3 +1,15 @@
+#### Version 18.1
+
+- Added tweet-command. Search tweets, send tweets and send latest APOD, quote or proverb.
+- Removed unavailable System-cmd info.
+- Minor changes.
+
+#### Version 17.8
+
+- Added index-argument to RSS-command. Read RSS of specified index.
+- Added list-argument to RSS-command. Lists all feeds set in Settings-page.
+
+
 #### Version 17.7
 
 - Added RSS-command. Use settings page to set feeds to read and use rss-command to read the feeds

@@ -28,3 +28,4 @@
 - Eureka, https://github.com/xmartlabs/Eureka
 - Whisper, https://github.com/hyperoslo/Whisper
 - FeedKit, https://github.com/nmdias/FeedKit
+- TwitterKit, https://github.com/twitter/twitter-kit-ios

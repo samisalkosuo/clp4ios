@@ -76,6 +76,8 @@ Following commands have been implemented:
 - **rss**, Read RSS feeds.
   - all &lt;no param>, Read all Settings-page RSS feeds.
   - feed &lt;url>, RSS feed URL.
+  - index &lt;index>, Read RSS feed of index.
+  - list &lt;no param>, List RSS feeds (set them in Settings-page).
 - **sun**, Sunrise/sunset time in current location.
 - **system**, Show various system info.
   - battery, Show battery info.
@@ -83,6 +85,12 @@ Following commands have been implemented:
   - hardware, Show hardware info.
   - locale, Show locale info.
   - screen, Show screen info.
+- **tweet**, Send and search tweets.
+  - apod, Tweet last shown APOD.
+  - msg &lt;any text>, Tweet any text.
+  - proverb, Tweet last shown proverb.
+  - quote, Tweet last shown quote.
+  - search &lt;any text>, Search tweets.
 - **uname**, Generate random usernames.
   - format &lt;format>, Format: C=cons., V=vow., N=nr, +=space.
 
